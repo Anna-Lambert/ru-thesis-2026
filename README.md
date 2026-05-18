@@ -20,7 +20,7 @@ validated on 2021–2022, and evaluated on a held-out 2023–2024 test set.
 ---
 
 ## Repository Structure
-
+```
 ├── src/
 │   ├── data_preparation/     
 │   ├── random_forest/    # Tabular modelling pipeline (ignition + cause)
@@ -30,7 +30,7 @@ validated on 2021–2022, and evaluated on a held-out 2023–2024 test set.
 ├── figures/              # Generated figures and maps
 ├── README.md
 └── pyproject.toml        # uv-managed dependency specification
-
+```
 ---
 
 ## Environment Setup
